@@ -1,7 +1,7 @@
 {
   "name": "ng-hover",
-  "version": "1.0.0",
-  "description": "Angular 13.3.0. application to build a unique hover directive",
+  "version": "1.0.1",
+  "description": "Angular 13.3.0 application to build a unique hover directive",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anirbmuk/ng-hover.git"
@@ -11,6 +11,7 @@
   "bugs": {
     "url": "https://github.com/anirbmuk/ng-hover/issues"
   },
+  "homepage": "https://dev.to/anirbmuk/a-unique-angular-hover-directive-dk4",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
