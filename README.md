@@ -1,4 +1,4 @@
-# ng Lazy Load
+# ng-hover
 Angular 13.3.0 application to build a unique hover directive  
 
 ## Related Blog
